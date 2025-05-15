@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I'm Umut!
 
-<!--
-**umtdvts/umtdvts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who builds web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: JavaScript, React.Js, Git-Github, REACT Native, HTML, HTML5, CSS3, CSS.
+- 🌱 I’m currently learning: React Native, Redux
+- 📫 How to reach me: umutdevetas@gmail.com
+- ⚡ Fun fact: I love listening to lo-fi music while coding :) 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
